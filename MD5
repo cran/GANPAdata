@@ -1,0 +1,12 @@
+3c9de26981396cabe937f2592c9f8d8a *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+8f953ab0df3eb5513713882660cb36e3 *data/datalist
+8a5cd70a37bbbb47bcb7e3e9cd3bad38 *data/gExprs.p53.rda
+7ec7a9786253f3c637632ae60f812786 *data/gNET.rda
+d7420e04e7c45ce9d3b15f6b29699d72 *data/gsets.msigdb.pnas.rda
+6a7b68c5dd3acb267cb4c2888f81efff *data/msp.groups.rda
+dc2ccf99a6b10d7ff477580dba9140e2 *man/GANPAdata-package.Rd
+c5191eb6a9c03ddbf8e8b4c8744aeda7 *man/gExprs.p53.Rd
+345b7bcfdf9128c6b24fba923b870636 *man/gNET.Rd
+ac10b20b23bbd65dd9338c0d2f4cb46f *man/gsets.msigdb.pnas.Rd
+8663f0fd33bbf7392f9ab7e8ce2b48fa *man/msp.groups.Rd
